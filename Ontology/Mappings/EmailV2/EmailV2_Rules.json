@@ -12,7 +12,7 @@
                     "rawDataPrimaryFieldMatchTerm": "orig_from",
                     "rawDataPrimaryFieldComparisonType": 0,
                     "rawDataSecondaryFieldMatchTerm": "",
-                    "rawDataSecondaryFieldComparisonType": 1,
+                    "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "",
                     "rawDataThirdFieldComparisonType": 0,
                     "enrichmentFields": [],
