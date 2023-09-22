@@ -10,7 +10,7 @@
                     "transformationFunction": 0,
                     "transformationFunctionParam": "",
                     "rawDataPrimaryFieldMatchTerm": "orig_from",
-                    "rawDataPrimaryFieldComparisonType": 0,
+                    "rawDataPrimaryFieldComparisonType": 1,
                     "rawDataSecondaryFieldMatchTerm": "",
                     "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "",
